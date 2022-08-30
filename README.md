@@ -22,7 +22,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
-  
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://icongr.am/devicon/npm-original-wordmark.svg?size=128&color=currentColor">
 </div>
   
   ##
