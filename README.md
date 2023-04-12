@@ -1,7 +1,7 @@
 ### Hi there, I'm Evandro 👋
 
 
-- 🔭 I’m currently working on Front-End
+- Fullstack dev
 - 🌱 I’m currently learning React
 - 📫 How to reach me: evandrooviegas@gmail.com
 
