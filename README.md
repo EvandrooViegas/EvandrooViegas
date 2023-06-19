@@ -1,39 +1,17 @@
-### Hi there, I'm Evandro 👋
-
-
-- Frontend Dev
-- Learning Next.js
-- 📫 How to reach me: thewebx.comp@gmail.com
-
-<div align="center">
-  <a href="https://github.com/EvandrooViegas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EvandrooViegas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvandrooViegas&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://icongr.am/devicon/npm-original-wordmark.svg?size=128&color=currentColor">
-</div>
-  
-  ##
- 
-<div> 
-  
-  <a href="https://instagram.com/yourwebx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/691328817951670332" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:evandrooviegas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
- 
-
- 
-</div>
+### Hello
+#  
+<main>
+  <section>
+    <span>I'm Evandro Viegas, a Web Dev from</span>
+    🇦🇴
+  </section>
+  <section>
+    <span>Languages and Tools</span>
+    <div>
+      <i class="devicon-react-original"></i>
+      <i class="devicon-nextjs-original-wordmark"></i>
+      <i class="devicon-typescript-plain"></i>
+      <i class="devicon-tailwindcss-plain"></i>
+    </div>
+  </section>
+</main>
