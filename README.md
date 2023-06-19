@@ -1,9 +1,9 @@
 ### Hi there, I'm Evandro 👋
 
 
-- Fullstack dev
-- 🌱 I’m currently learning React
-- 📫 How to reach me: evandrooviegas@gmail.com
+- Frontend Dev
+- Learning Next.js
+- 📫 How to reach me: thewebx.comp@gmail.com
 
 <div align="center">
   <a href="https://github.com/EvandrooViegas">
