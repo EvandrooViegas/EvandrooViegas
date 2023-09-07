@@ -2,7 +2,7 @@
 
 **`Web Dev`**
 
-> Hello, I'm Evandro, a Fullstack Developer from Angola.
+## Hello, I'm Evandro, a Fullstack Developer from Angola.
 
    <p align="left">
       <a href="https://github.com/EvandrooViegas?tab=followers">
@@ -28,6 +28,7 @@
 <br />
 
 ### 📊 Stats
-![EvandrooViegas's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EvandrooViegas&theme=dark)
-![EvandrooViegas's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvandrooViegas&show_icons=true&theme=dark)
+![EvandrooViegas's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvandrooViegas&show_icons=true&theme=dark) <br />
+![EvandrooViegas's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EvandrooViegas&theme=dark) 
+
 
