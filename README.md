@@ -2,14 +2,9 @@
 
 **`Web Dev`**
 
-## Hello, I'm Evandro, a Fullstack Developer from Angola.
+# 👋 Hello, I'm Evandro, a Fullstack Developer from Angola. Currently working as a fullstack web developer freelancer on UpWork
 
-   <p align="left">
-      <a href="https://github.com/EvandrooViegas?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/EvandrooViegas?color=4842f5&labelColor=4842f5&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/EvandrooViegas?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/EvandrooViegas?color=f54242&style=for-the-badge&labelColor=f54242&logo=star"/></a>
-   </p>
+
 
 ### 🧰 Languages and Tools
 
@@ -27,10 +22,18 @@
 <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 <br />
-<br />
 
 ### 📊 Stats
-![EvandrooViegas's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvandrooViegas&show_icons=true&theme=dark) <br />
 ![EvandrooViegas's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EvandrooViegas&theme=dark) 
+<br />
 
+### 📲 Reach me
+
+<div style="display: inline_block">
+<a href="https://www.upwork.com/freelancers/~01e890f4e0779c8147" target="_blank">
+<img align="center" alt="UpWork" src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" />
+</a>
+                                                                                    
+</div>
+<br />
 
